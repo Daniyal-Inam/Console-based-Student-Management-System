@@ -1,0 +1,17 @@
+{
+  "name": "dani786-console-based-student-management-system",
+  "version": "1.0.0",
+  "description": "Console-based Student Management System with unique ID generation, course enrollment, balance viewing, fee payment, and status display. Efficiently manage student details with an easy-to-use interface.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.19"
+  }
+}
